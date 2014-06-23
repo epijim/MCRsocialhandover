@@ -1,0 +1,42 @@
+\contentsline {section}{\numberline {1}Stuff to do first}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Fire induction}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Liquor induction}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Pre-dinner drinks}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}MCR calendar}{2}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Term card}{2}{subsection.1.5}
+\contentsline {section}{\numberline {2}Freshers fornight}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Wine and Cheese}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}College tour}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Curry night}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Cocktail Night}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Gown sale}{4}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Gym induction}{4}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Punting}{5}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}JCSU bop}{5}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Afternoon Tea Party for Couples and Families}{5}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Pub quiz}{5}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Pizzas and Games}{5}{subsection.2.11}
+\contentsline {subsection}{\numberline {2.12}Ghost Tour}{5}{subsection.2.12}
+\contentsline {subsection}{\numberline {2.13}Clare cellar bop}{6}{subsection.2.13}
+\contentsline {subsection}{\numberline {2.14}Historic guided tour}{6}{subsection.2.14}
+\contentsline {subsection}{\numberline {2.15}Bar crawl}{6}{subsection.2.15}
+\contentsline {subsection}{\numberline {2.16}Film night}{7}{subsection.2.16}
+\contentsline {subsection}{\numberline {2.17}LGBT drinks}{7}{subsection.2.17}
+\contentsline {subsection}{\numberline {2.18}Safari night}{7}{subsection.2.18}
+\contentsline {section}{\numberline {3}Super halls}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Halloween}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Xmas}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Burn's night}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}End of year dinner}{9}{subsection.3.4}
+\contentsline {section}{\numberline {4}Other events}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}Swaps}{9}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Colleges}{9}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}When they visit}{10}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Selling tickets}{10}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Getting the money}{10}{subsubsection.4.1.4}
+\contentsline {subsection}{\numberline {4.2}Grad bar night}{10}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}MCR bake off}{10}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Wine tasting}{11}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Beer tasting}{11}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Whisky night}{11}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Speed dating}{11}{subsection.4.7}

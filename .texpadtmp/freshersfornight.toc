@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Duties}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Speech in freshers week}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Future and ongoing projects}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Committee membership}{2}{subsection.1.3}
+\contentsline {section}{\numberline {2}Stuff to do first}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Fire induction}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Liquor induction}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Pre-dinner drinks}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}MCR calendar}{3}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Term card}{3}{subsection.2.5}
+\contentsline {section}{\numberline {3}Super halls}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Halloween}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Xmas}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Burn's night}{4}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}End of year dinner}{5}{subsection.3.4}
+\contentsline {section}{\numberline {4}Other events}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Swaps}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Colleges}{5}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}When they visit}{5}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Selling tickets}{6}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Getting the money}{6}{subsubsection.4.1.4}
+\contentsline {subsection}{\numberline {4.2}Grad bar night}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}MCR bake off}{6}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Wine tasting}{6}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Beer tasting}{6}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Whisky night}{7}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Speed dating}{7}{subsection.4.7}
